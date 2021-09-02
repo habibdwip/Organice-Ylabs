@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46585480733",
+    "project_id": "organice-ylabs",
+    "storage_bucket": "organice-ylabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46585480733:android:7a6544a28186829dbee8f4",
+        "android_client_info": {
+          "package_name": "com.example.organice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46585480733-m07goj4r56ui3m1jpc1al1oopihu0dce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organice",
+            "certificate_hash": "89e3076fed0d39e519c1699b202fcdf0141d0ea6"
+          }
+        },
+        {
+          "client_id": "46585480733-2ve8g49fpjieifijunufqoikjpqfjouc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbw4zL0ky2JRnak2vs4pHR2iM4Gt7was"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46585480733-2ve8g49fpjieifijunufqoikjpqfjouc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
